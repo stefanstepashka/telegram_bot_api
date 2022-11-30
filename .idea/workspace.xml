@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3506da44-deeb-475b-b6db-34c2a2789fa8" name="Changes" comment="Telegram bot using REST, Django and Aiogram">
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/.idea/backendtelegram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/.idea/bot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/bot/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/bot/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/bot/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/bot/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/bot/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapi/src/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapi/src/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapi/src/commands.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapi/src/data_fetcher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapi/src/keyboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapi/src/local_settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapi/src/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapi/src/messages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapi/src/random_five.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapi/src/state.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/botapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendtelegram(copy)/bot/manage.py" beforeDir="false" />
+    </list>
+    <list id="c5c2fb89-59e6-4ba4-8572-a2874b08d84b" name="gg" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="644fbbb4-43df-4b22-8cb3-e96e04628401" />
+        <option name="url" value="https://github.com/stefanstepashka/telegram_bot.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FJjIjDr5l5KcklvrSeh4NsKzad" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;250a39&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/stefik/Desktop/PycharmProjects/newshit/backendtelegram&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="backendtelegram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\stefik\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bot/botapi/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot/botapi/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_five" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="backendtelegram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bot/botapi/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot/botapi/src/random_five.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.random_five" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3506da44-deeb-475b-b6db-34c2a2789fa8" name="Changes" comment="" />
+      <changelist id="c5c2fb89-59e6-4ba4-8572-a2874b08d84b" name="gg" comment="" />
+      <created>1664217002916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664217002916</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Telegram bot using REST, Django and Aiogram">
+      <created>1669845990178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669845990178</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Telegram bot using REST, Django and Aiogram">
+      <created>1669846139991</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669846139991</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Telegram bot using REST, Django and Aiogram">
+      <created>1669846174564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669846174564</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Telegram bot using REST, Django and Aiogram">
+      <created>1669846935140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669846935140</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Telegram bot using REST, Django and Aiogram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Telegram bot using REST, Django and Aiogram" />
+  </component>
+</project>
